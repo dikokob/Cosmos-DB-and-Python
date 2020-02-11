@@ -1,2 +1,4 @@
 azure-cosmos
 pandas
+matplotlib
+seaborn
